@@ -1,0 +1,6 @@
+s=int(input('enter s:'))
+a=int(input('enter a:'))
+if s==a:
+    print('equal')
+else:
+    print('not equal')
