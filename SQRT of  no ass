@@ -1,0 +1,7 @@
+n = int(input())
+m = n**0.5
+print(m)
+if m > 10:
+    print('Hello')
+else:
+    print("Hi")
